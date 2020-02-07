@@ -1,0 +1,38 @@
+{
+  "name": "MateriKelas",
+  "short_name": "Materikelas",
+  "start_url": "https://www.materikelas.xyz/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog pendidikan Indonesia",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-zXFzJZ-736g/Xj1-CvBXjJI/AAAAAAAAOAs/dSr-_-B8HtMfLFoNstGuybI7Vo-nesXowCLcBGAsYHQ/s1600/m48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-mlhlUyfvFn4/Xj1-Rb3I4_I/AAAAAAAAOAw/iAI7-WBNmH4JyJBtgAdcLWopIf5ggbbpgCLcBGAsYHQ/s1600/m72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZWeSijt_HpI/Xj1-eFrSh8I/AAAAAAAAOA4/FdPd07eMhV0kYyqBJNJvZRVMy5YIj5wygCLcBGAsYHQ/s1600/m96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-zlcvxMQ44ow/Xj1-rQV-4KI/AAAAAAAAOBA/-UFw-15NOpIPkQvKNjTYNky1FoyUE4brwCLcBGAsYHQ/s1600/m144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-g4knb_QJexM/Xj1-2njGaSI/AAAAAAAAOBI/mB4ibE_rD4g06ybrNTxQ64QohBIOqGbtgCLcBGAsYHQ/s1600/m168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c5Os-YIohek/Xj1_BBerqdI/AAAAAAAAOBQ/TGm5CqSlAAM10JvkCya01eHRYs2JpzhXwCLcBGAsYHQ/s1600/m192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_SyxBUBduQk/Xj1_OMIUyhI/AAAAAAAAOBY/IUAYjnp8crITglGhiJpMqe_KLKr0E_T0QCLcBGAsYHQ/s1600/m512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
